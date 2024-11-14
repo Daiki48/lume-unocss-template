@@ -21,6 +21,8 @@ deno task serve
 
 [Deno deploy](https://deno.com/deploy)
 
+See: [Deno Deploy | Advanced](https://lume.land/docs/advanced/deployment/#deno-deploy)
+
 ## LICENSE
 
 MIT
