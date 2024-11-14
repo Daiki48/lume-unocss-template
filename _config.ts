@@ -33,6 +33,7 @@ site.use(
 
 site.copy("./_styles/global.css", "/styles/global.css");
 // site.copy("./_styles/atom-one-dark.css", "/styles/atom-one-dark.css");
+site.copy("./server.ts", "/server.ts");
 
 site.ignore("README.md");
 
